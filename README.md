@@ -43,22 +43,6 @@
 
 ---
 
-## 🧱 System Architecture
-
-```
-User
-  ↓
-FastAPI (API Layer)
-  ↓
-LangGraph (Planner → Executor → Tools)
-  ↓
-┌───────────────┬───────────────┬───────────────┐
-│     vLLM      │      RAG      │   External APIs │
-└───────────────┴───────────────┴───────────────┘
-```
-
----
-
 ## 🧩 Focus Areas
 
 - 🔥 RL for LLM (PPO / GRPO / DAPO)
