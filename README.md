@@ -3,11 +3,10 @@
 🚀 Building **LLM-powered systems** with a focus on  
 **Agent workflows · Inference optimization · Scalable AI systems**
 
----
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=LLM+Engineer;Agent+Builder;Inference+Optimizer&center=true&width=500&height=45">
 </p>
----
+
 
 ## ⚙️ Tech Stack
 
